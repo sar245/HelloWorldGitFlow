@@ -31,5 +31,9 @@ public class SampleJavaApp {
 	public static void feature1BugFix1() {
 		System.out.println("2.1 This is the 2nd feature Bug Fix 1");
 	}
+	
+	public static void feature3() {
+		System.out.println("2. This is the 3rd feature implementation");
+	}
 
 }
