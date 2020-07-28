@@ -14,6 +14,7 @@ public class SampleJavaApp {
 		feature1();
 		feature2();
 		feature2BugFix1();
+		feature3();
 	}
 
 	public static void feature1() {
