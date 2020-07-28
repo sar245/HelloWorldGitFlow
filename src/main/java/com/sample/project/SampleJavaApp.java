@@ -11,6 +11,7 @@ public class SampleJavaApp {
 
 	public static void main(String[] args) {
 		System.out.println("1. This is the master branch code");
+		feature1();
 	}
 	
 	public static void feature1() {
