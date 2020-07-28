@@ -15,6 +15,7 @@ public class SampleJavaApp {
 		feature2();
 		feature2BugFix1();
 		release020HotFix1();
+		feature3();
 	}
 
 	public static void feature1() {
@@ -35,6 +36,10 @@ public class SampleJavaApp {
 	
 	public static void release020HotFix1() {
 		System.out.println("3.2 This is the 2nd feature Hot Fix 1");
+	}
+
+	public static void feature3() {
+		System.out.println("2. This is the 3rd feature implementation");
 	}
 
 }
